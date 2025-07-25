@@ -299,4 +299,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Amine Bahlouli - amine.bahlouli@dzne.de
 
-Project Link: [https://gitlab.dzne.de/glab/EEEGNET](https://gitlab.dzne.de/glab/EEEGNET)
+
